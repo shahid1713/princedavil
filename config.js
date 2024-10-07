@@ -9,8 +9,8 @@
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
-global.owner = '6281210473431'
-global.nomerowner = ["6283137657067"]
+global.owner = '923375987957'
+global.nomerowner = ["923375987957"]
 global.packname = 'Di Buat Oleh'
 global.author = '𝐗 Ruzzy'
 global.urldb = ''; // kosongin aja
